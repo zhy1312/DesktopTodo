@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# 本地测试截图与调试脚本
+shots/
+visual_check.ps1
+dump_screens.ps1
+smoke_test.ps1
+repro_clamp.py
+retest_paint.ps1
